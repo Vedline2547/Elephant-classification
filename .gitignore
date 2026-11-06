@@ -1,0 +1,4 @@
+.venv/
+# Dataset folders
+trainElephant/
+testElephant/
